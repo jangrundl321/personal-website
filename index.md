@@ -3,7 +3,7 @@ layout: home
 title: About Me
 ---
 
-<img src="assets/img/profile.jfif" alt="My Profile Picture" width="30">
+<img src="assets/img/profile.jfif" alt="My Profile Picture" width="60">
 
 
 ### Contact
@@ -11,8 +11,6 @@ title: About Me
 - **LinkedIn:** [linkedin.com/in/jan-victornino-grundl-722645357](https://www.linkedin.com/in/jan-victornino-grundl-722645357)
 
 ---
-
-## About Me
 
 I am a Computer Science Master’s student at the University of Rostock with a strong focus on **applied AI, software engineering, and responsible AI systems**. 
 
