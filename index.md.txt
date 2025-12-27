@@ -1,0 +1,29 @@
+---
+layout: home
+title: My Lebenslauf
+---
+
+# [Your Name]
+![My Profile Picture](assets/img/profile.jpg)
+
+### Contact Information
+- **Email:** yourname@email.com
+- **LinkedIn:** linkedin.com/in/yourprofile
+
+---
+
+## Professional Summary
+A brief description of who you are and what you do.
+
+## Experience
+**Job Title** | Company Name | *Jan 2022 - Present*
+- Accomplishment one
+- Accomplishment two
+
+## Education
+**Degree Name** | University Name | *2018 - 2022*
+
+---
+
+## Personal Blog
+Check out my latest thoughts below:
