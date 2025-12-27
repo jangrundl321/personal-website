@@ -3,12 +3,11 @@ layout: home
 title: About Me
 ---
 
-# Jan Victornino Grundl
 ![My Profile Picture](assets/img/profile.jpg)
 
 ### Contact
 - **Email:** janvictorninogrundl@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/jan-victornino-grundl-722645357  
+- **LinkedIn:** [linkedin.com/in/jan-victornino-grundl-722645357](https://www.linkedin.com/in/jan-victornino-grundl-722645357)
 
 ---
 
@@ -56,7 +55,11 @@ In addition to research and development, I care deeply about **teaching, accessi
 **University of Rostock** | *Sep 2023 – Nov 2025*  
 - Teaching mathematics, programming, logic, and AI fundamentals  
 - Preparation and execution of interactive excursions for school students  
-- Emphasis on accessibility, curiosity, and conceptual understanding  
+- Emphasis on accessibility, curiosity, and conceptual understanding
+
+### Part-Time Helper
+**Bäckerei Junge** | *Juli 2020 – Sep 2022*  
+- opening/closing shop, selling and preparing food
 
 ---
 
