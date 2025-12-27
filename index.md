@@ -3,7 +3,7 @@ layout: home
 title: About Me
 ---
 
-<img src="assets/img/profile.jfif" alt="My Profile Picture" width="60">
+<img src="assets/img/profile.jfif" alt="My Profile Picture" width="80">
 
 
 ### Contact
