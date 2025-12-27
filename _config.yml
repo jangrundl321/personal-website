@@ -5,4 +5,4 @@ description: CV and Blog
 head:
   - '<link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">'
 
-
+heading_anchors: false
