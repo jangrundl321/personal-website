@@ -3,7 +3,8 @@ layout: home
 title: About Me
 ---
 
-![My Profile Picture](assets/img/profile.jfif)
+<img src="assets/img/profile.jfif" alt="My Profile Picture" width="180">
+
 
 ### Contact
 - **Email:** janvictorninogrundl@gmail.com  
