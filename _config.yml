@@ -1,3 +1,8 @@
 title: Jan Victornino Grundl
 theme: minima
 description: CV and Blog
+# Add custom head content
+head:
+  - '<link rel="icon" href="/favicon.ico" type="image/x-icon">'
+
+
