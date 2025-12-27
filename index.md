@@ -13,7 +13,8 @@ title: About Me
 
 ## About Me
 
-I am a Computer Science Master’s student at the University of Rostock with a strong focus on **applied AI, software engineering, and responsible AI systems**.  
+I am a Computer Science Master’s student at the University of Rostock with a strong focus on **applied AI, software engineering, and responsible AI systems**. 
+
 My work sits at the intersection of **technical rigor, explainability, and societal impact**, especially in high-stakes domains such as animal welfare, and education.
 
 I am particularly interested in how AI systems can be designed so that they are not only performant, but also **understandable, trustworthy, and aligned with human and societal needs**.
