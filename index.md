@@ -1,14 +1,14 @@
 ---
 layout: home
-title: My Lebenslauf
+title: About Me
 ---
 
-# [Your Name]
+# Jan Victornino Grundl
 ![My Profile Picture](assets/img/profile.jpg)
 
 ### Contact Information
-- **Email:** yourname@email.com
-- **LinkedIn:** linkedin.com/in/yourprofile
+- **Email:** janvictorninogrundl@gmail.com
+- **LinkedIn:** www.linkedin.com/in/jan-victornino-grundl-722645357
 
 ---
 
@@ -21,7 +21,9 @@ A brief description of who you are and what you do.
 - Accomplishment two
 
 ## Education
-**Degree Name** | University Name | *2018 - 2022*
+**Computer Science Master** | University of Rostock  | *since 2025*
+**Computer Science Bachelor** | University of Rostock | *2020-2025*
+**Abitur** | Schulcampus Rostock-Evershagen  | *2020*
 
 ---
 
