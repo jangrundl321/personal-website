@@ -10,6 +10,7 @@ title: About Me
 - **Email:** janvictorninogrundl@gmail.com  
 - **LinkedIn:** [linkedin.com/in/jan-victornino-grundl-722645357](https://www.linkedin.com/in/jan-victornino-grundl-722645357)
 - **Medium:** [https://medium.com/@janvictorninogrundl](https://medium.com/@janvictorninogrundl)
+  
 ---
 
 I am a Computer Science Master’s student at the University of Rostock with a strong focus on **applied AI, software engineering, and responsible AI systems**. 
