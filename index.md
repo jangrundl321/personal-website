@@ -9,7 +9,7 @@ title: About Me
 ### Contact
 - **Email:** janvictorninogrundl@gmail.com  
 - **LinkedIn:** [linkedin.com/in/jan-victornino-grundl-722645357](https://www.linkedin.com/in/jan-victornino-grundl-722645357)
-
+- **Medium:** [https://medium.com/@janvictorninogrundl](https://medium.com/@janvictorninogrundl)
 ---
 
 I am a Computer Science Master’s student at the University of Rostock with a strong focus on **applied AI, software engineering, and responsible AI systems**. 
@@ -18,7 +18,7 @@ My work sits at the intersection of **technical rigor, explainability, and socie
 
 I am particularly interested in how AI systems can be designed so that they are not only performant, but also **understandable, trustworthy, and aligned with human and societal needs**.
 
-In addition to research and development, I care deeply about **teaching, accessibility, and community engagement**. I believe technology should meaningfully improve lives—not just exist as an abstract capability.
+In addition to research and development, I care deeply about **teaching, accessibility, and community engagement**. I believe technology should meaningfully improve lives and not just exist as an abstract capability.
 
 ---
 
@@ -78,7 +78,8 @@ Schulcampus Rostock-Evershagen | *2020*
 
 ## Volunteering & Engagement
 
-- Volunteer Work at the Kampfkunstakademie Rostock 
+- Volunteer Work at the Kampfkunstakademie Rostock
+- Volunteer Work at Byte Challenge - a project of Gesellschaft für Informatik (e.V.)
 
 I see volunteering as an essential counterbalance to technical and academic work—keeping my perspective grounded in real human needs.
 
@@ -91,7 +92,7 @@ I see volunteering as an essential counterbalance to technical and academic work
 - Technology & society, AI governance, digital responsibility  
 - Education, accessibility, and social good  
 
-I like AI—but I like it even more when it genuinely helps people (and other living beings).
+I like AI, but I like it even more when it genuinely helps people (and other living beings).
 
 ---
 
