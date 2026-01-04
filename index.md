@@ -9,7 +9,7 @@ title: About Me
 ### Contact
 - **Email:** janvictorninogrundl@gmail.com  
 - **LinkedIn:** [linkedin.com/in/jan-victornino-grundl-722645357](https://www.linkedin.com/in/jan-victornino-grundl-722645357)
-- **Medium(random post and articles about Tech stuff):**  [https://medium.com/@janvictorninogrundl](https://medium.com/@janvictorninogrundl)
+- **Medium:** [https://medium.com/@janvictorninogrundl](https://medium.com/@janvictorninogrundl)
   
 ---
 
